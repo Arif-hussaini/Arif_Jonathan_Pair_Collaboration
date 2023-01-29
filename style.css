@@ -1,0 +1,7 @@
+@media screen and (max-width: 992px) {
+  body,
+  a {
+    background-color: orangered;
+    color: white;
+  }
+}
